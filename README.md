@@ -4,14 +4,14 @@ It is a proposed solution for a kaggle challange for earthquake prediction
 # Project Overview
 This project aims to explore and analyze seismic data to develop a model capable of predicting earthquakes. By leveraging machine learning techniques, we seek to identify patterns and correlations within the data that could potentially indicate impending seismic activity.
 
-#Data Description
+# Data Description
 Dataset: [Insert dataset name or link]
 Features:
 [List of relevant features, e.g., magnitude, depth, latitude, longitude, time]
 Target Variable:
 Earthquake occurrence (binary or categorical)
 
-#Methodology
+# Methodology
 Data Preprocessing:
 Handle missing values.
 Normalize or standardize numerical features.
@@ -31,7 +31,7 @@ Evaluate model performance on the testing set using metrics.
 Consider cross-validation techniques for robust evaluation.
 
 
-#Tools and Libraries
+# Tools and Libraries
 Python
 Pandas
 NumPy
@@ -41,7 +41,7 @@ Scikit-learn
 TensorFlow/PyTorch (for deep learning models)
 Geopandas (for spatial data analysis)
 
-#Future Work
+# Future Work
 Incorporate real-time data streams for continuous monitoring.
 Explore advanced techniques like deep learning architectures specifically designed for time-series data.
 Consider combining earthquake prediction with early warning systems.
